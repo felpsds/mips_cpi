@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1662052285 source:c:\users\fe057447\desktop\projects\facul\arq\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1661952448 source:c:\users\7704895\desktop\mips_arq\mips_arq-main\facul\arq\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<sstream>
+
+1662052887 source:c:\users\fe057447\desktop\projects\facul\mips_cpi\cpp_project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
